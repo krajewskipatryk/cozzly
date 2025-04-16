@@ -7,7 +7,7 @@ plugins {
 }
 
 application {
-    mainClass = "com.cozzly.houses.AccountsApplication"
+    mainClass = "com.cozzly.houses.HousesApplication"
 }
 
 dependencies {

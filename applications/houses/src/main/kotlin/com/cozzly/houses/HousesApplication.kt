@@ -1,11 +1,11 @@
-package com.cozzly.com.cozzly.accounts
+package com.cozzly.houses
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class AccountsApplication
+class HousesApplication
 
 fun main(args: Array<String>) {
-    runApplication<AccountsApplication>(*args)
+	runApplication<HousesApplication>(*args)
 }

@@ -1,13 +1,12 @@
-package com.cozzly.accounts
+package com.cozzly.activities
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class AccountsApplicationTests {
+class ActivitiesApplicationTestIT {
 
-	@Test
-	fun contextLoads() {
-	}
-
+    @Test
+    fun contextLoads() {
+    }
 }
