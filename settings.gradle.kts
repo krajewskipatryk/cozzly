@@ -10,3 +10,5 @@ include("applications:activities")
 findProject(":applications:accounts")?.name = "accounts"
 findProject(":applications:houses")?.name = "houses"
 findProject(":applications:activities")?.name = "activities"
+include("lib:shared")
+findProject(":lib:shared")?.name = "shared"

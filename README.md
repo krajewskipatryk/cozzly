@@ -38,12 +38,14 @@
 
 #### Add single use shopping list
 - Edit shopping list
+  - Add live update when more than 1 member is editing the file
+  - Show editing members
 - Shared across all members
 - Assign to single member or multiple members
 - Mark if completed
 - Group into categories:
-    - Add language model like chat gpt
-    - Add predefined products list ???
+  - Add language model like chat gpt
+  - Add predefined products list ???
 
 #### Urgent product need
 
@@ -53,8 +55,11 @@
 - Automatic members order when set
 - Changing order
 - Allow to mark task as done
+
 #### Add single time task
-- 
+- Assign member
+- Add deadline
+- Send notification
 
 ### 5. Notifications:
 #### Push notifications
